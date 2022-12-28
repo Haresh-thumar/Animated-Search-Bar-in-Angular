@@ -1,27 +1,27 @@
-# SearchAnyoneData
+# Full Width Searchbar
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.9.
 
-## Development server
+<br>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Desktop View Search Bar
 
-## Code scaffolding
+![image](https://user-images.githubusercontent.com/100337599/209814678-d9d24059-2d69-4573-953b-8d3408c7e464.png)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![image](https://user-images.githubusercontent.com/100337599/209815154-5d8dd9d9-ee0e-4602-b01c-b75708b657a5.png)
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Desktop View Search Bar
 
-## Running unit tests
+![image](https://user-images.githubusercontent.com/100337599/209815254-ea20027a-6e3c-4d68-912b-2915d3355386.png)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![image](https://user-images.githubusercontent.com/100337599/209815290-6565d614-7711-4162-8d72-04511d6c6c1c.png)
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+<br>
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<h2>* Build & Run Project</h2>
+<ul>
+  <li>ng build</li>
+  <li>ng serve | npm start</li>
+</ul>
